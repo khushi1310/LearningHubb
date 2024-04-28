@@ -1,0 +1,12 @@
+.navbar-expand-lg .navbar-collapse {
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+.navbar-dark .navbar-brand{
+    font-size: 25px;
+}
+
+.navfix{
+
+}
